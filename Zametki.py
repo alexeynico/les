@@ -19,6 +19,8 @@
 # git config --global user.name "Alex Nikonov"
 # git config --global user.email "alexeynico@gmail.com"
 # git status
+# git add - добавить файлы
+# git commit -m "Первая версия" - сохранить
 
 # ---------------------------------------------Типы данных---------------------
 
